@@ -1,7 +1,8 @@
 AngularJS Timer Directive
 
-Create a new Timer HTML Tag
-<div ng-timer callback="<callback function on timeout>" time-sec="<timeout time in seconds>"></div>
+Create a Timer HTML Tag:
+
+\<div ng-timer callback="\<callback function on timeout>" time-sec="\<timeout time in seconds>"></div>
 
 
 Test it: 
